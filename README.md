@@ -39,7 +39,7 @@ Having issues trying to make a web controller page for a trailer
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-![](https://i.imgur.com/QtLtYcB.gif)
+![x] (https://i.imgur.com/QtLtYcB.gif)
 
 
 
